@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <Accessory>
+		<id>AC1</id>
+		<retailer>Ebay</retailer>
+        <image>powerbank.jpg</image>
+        <name>Powerbank</name>
+        <condition>New</condition>
+        <price>99</price>    
+    </Accessory>
+    <Accessory>
+		<id>AC2</id>
+		<retailer>Amazon</retailer>
+        <image>earphones.jpg</image>
+        <name>Earphones</name>
+        <condition>New</condition>
+        <price>169</price>  
+    </Accessory>
+    <Accessory>
+		<id>AC3</id>
+		<retailer>Ebay</retailer>
+        <image>earpiece.jpg</image>
+        <name>Bluetooth Earpiece</name>
+        <condition>New</condition>
+        <price>79</price>
+    </Accessory>
+	<Accessory>
+		<id>AC6</id>
+		<retailer>Amazon</retailer>
+        <image>mouse.jpg</image>
+        <name>wireless mouse</name>
+        <condition>New</condition>
+        <price>69</price>
+    </Accessory>
+	<Accessory>
+		<id>AC7</id>
+		<retailer>Amazon</retailer>
+        <image>coolingpad.jpg</image>
+        <name>Coolingpad</name>
+        <condition>New</condition>
+        <price>199</price>
+    </Accessory>
+</ProductCatalog>

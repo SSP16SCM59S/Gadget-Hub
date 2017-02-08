@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <TV>
+		<id>TV1</id>
+		<retailer>Amazon</retailer>
+        <image>lgtv.jpg</image>
+        <name>LG</name>
+        <condition>New</condition>
+        <price>399</price>    
+    </TV>
+    <TV>
+		<id>TV2</id>
+		<retailer>Ebay</retailer>
+        <image>samsungtv.jpg</image>
+        <name>Samsung</name>
+        <condition>New</condition>
+        <price>399</price>  
+    </TV>
+	<TV>
+		<id>TV3</id>
+		<retailer>Amazon</retailer>
+        <image>sharptv.jpg</image>
+        <name>Sharp</name>
+        <condition>New</condition>
+        <price>399</price>
+    </TV>
+	<TV>
+		<id>TV4</id>
+		<retailer>Ebay</retailer>
+        <image>panasonictv.jpg</image>
+        <name>Panasonic</name>
+        <condition>New</condition>
+        <price>1099</price>
+    </TV>
+	<TV>
+		<id>TV5</id>
+		<retailer>Amazon</retailer>
+        <image>sony.jpg</image>
+        <name>Sony</name>
+        <condition>New</condition>
+        <price>1399</price>
+    </TV>
+</ProductCatalog>

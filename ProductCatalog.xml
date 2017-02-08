@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+  <phone>
+    <id>PH1</id>
+    <image>samsung.jpg</image>
+    <name>Samsung Note5</name>
+    <condition>New</condition>
+    <price>519</price>
+    <retailer>Amazon</retailer>
+  </phone>
+  <phone>
+    <id>PH2</id>
+    <image>nexus.jpg</image>
+    <name>Nexus 6p</name>
+    <condition>New</condition>
+    <price>359</price>
+    <retailer>Ebay</retailer>
+  </phone>
+  <phone>
+    <id>PH3</id>
+    <image>htc.jpg</image>
+    <name>Htc one</name>
+    <condition>New</condition>
+    <price>269</price>
+    <retailer>Amazon</retailer>
+  </phone>
+  <phone>
+    <id>PH4</id>
+    <image>lg.jpg</image>
+    <name>Lg Optimus</name>
+    <condition>New</condition>
+    <price>289</price>
+    <retailer>Amazon</retailer>
+  </phone>
+  <phone>
+    <id>PH5</id>
+    <image>oneplus.jpg</image>
+    <name>Oneplus</name>
+    <condition>New</condition>
+    <price>515</price>
+    <retailer>Ebay</retailer>
+  </phone>
+</ProductCatalog>

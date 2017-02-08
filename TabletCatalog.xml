@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <tablet>
+		<id>TB1</id>
+		<retailer>Flipkart</retailer>
+        <image>samsungtab.jpg</image>
+        <name>Samsung</name>
+        <condition>New</condition>
+        <price>599</price>    
+    </tablet>
+    <tablet>
+		<id>TB2</id>
+		<retailer>Flipkart</retailer>
+        <image>nexustab.jpg</image>
+        <name>Nexus7</name>
+        <condition>New</condition>
+        <price>259</price>  
+    </tablet>
+	<tablet>
+		<id>TB3</id>
+		<retailer>Amazon</retailer>
+        <image>acer.jpg</image>
+        <name>Acertab</name>
+        <condition>Used</condition>
+        <price>327</price>
+    </tablet>
+	<tablet>
+		<id>TB4</id>
+		<retailer>Ebay</retailer>
+        <image>asustab.jpeg</image>
+        <name>AsusTab</name>
+        <condition>New</condition>
+        <price>368</price>
+    </tablet>
+	<tablet>
+		<id>TB5</id>
+		<retailer>Ebay</retailer>
+        <image>delltab.jpg</image>
+        <name>DellTab</name>
+        <condition>Used</condition>
+        <price>458</price>
+    </tablet>
+</ProductCatalog>

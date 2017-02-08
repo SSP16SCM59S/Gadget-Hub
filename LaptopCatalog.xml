@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+  <Laptop>
+    <id>LP1</id>
+    <image>samsunglap.jpg</image>
+    <name>Samsung X41512</name>
+    <condition>New</condition>
+    <price>399</price>
+    <retailer>Amazon</retailer>
+  </Laptop>
+  <Laptop>
+    <id>LP2</id>
+    <image>lenovo.jpg</image>
+    <name>Lenovo Thinkpad i510p</name>
+    <condition>Refurbished</condition>
+    <price>199</price>
+    <retailer>BestBuy</retailer>
+  </Laptop>
+  <Laptop>
+    <id>LP3</id>
+    <image>amd.jpg</image>
+    <name>Amd 96845XSW</name>
+    <condition>New</condition>
+    <price>699</price>
+    <retailer>BestBuy</retailer>
+  </Laptop>
+  <Laptop>
+    <id>LP4</id>
+    <image>laptop.jpg</image>
+    <name>LX 3698</name>
+    <condition>New</condition>
+    <price>455</price>
+    <retailer>GadgetHub</retailer>
+  </Laptop>
+  <Laptop>
+    <id>LP5</id>
+    <image>hp.jpg</image>
+    <name></name>
+    <condition></condition>
+    <price></price>
+    <retailer></retailer>
+  </Laptop>
+</ProductCatalog>
